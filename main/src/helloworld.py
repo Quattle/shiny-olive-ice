@@ -1,4 +1,4 @@
 def hello_world(default="hello"):
-    print(default + "World")
+    print(default + "cruel" + "World")
 
 hello_world()
